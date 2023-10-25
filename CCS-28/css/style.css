@@ -1,0 +1,25 @@
+.some-text {
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: left;
+    font-weight: 300;
+    font-style: italic;
+}
+.cizel {
+    font-family: "cizel";
+    text-transform: uppercase;
+    text-align: center;
+}
+.style {
+    text-decoration-line: overline;
+    text-decoration-style: wavy;
+    word-spacing: 30px;
+    color: rgb(83, 17, 144);
+}
+
+.word {
+    letter-spacing: 5px;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
